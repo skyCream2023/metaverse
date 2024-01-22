@@ -1,2 +1,6 @@
 "and possible is happy"
+<<<<<<< HEAD
 "Love is open door" 
+=======
+"I know you man."
+>>>>>>> 98dc387ba7a23ced19d2e5c7e5e5745a6e237174
